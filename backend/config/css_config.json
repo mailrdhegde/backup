@@ -1,0 +1,9 @@
+{
+   "max_out_video_file_size": 10,
+   "input_video_slice_duration":5,
+   "output_video_max_index":5,
+   "out_put_video_slice_duration":5,
+   "object_detection_model":"../lib/utils/ckpt/tiny_yolo",
+   "video_back_up_path":"../../common/videos/backup",
+   "front_end_base_url":"http://localhost:3000/backendevent/"
+}

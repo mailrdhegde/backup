@@ -1,0 +1,20 @@
+	[
+               {
+			"camera_id": 1,
+			"camera_location": 1,
+			"url": "http://admin:YWRtaW4=@192.168.0.10:8080/stream/getvideo",
+                        "frame_rate": 10,
+                        "file_queue": ["../../common/videos/outvideos/camera1-0.mp4"],
+                        "file_queue_head": 0,
+                        "file_queue_tail": 0,
+			"analytics_enabled": "yes",
+			"end_of_file": "false",
+			"motion_detection_enabled": "TRUE",
+			"object_detection_enabled": "FALSE",
+			"face_recognition_enabled": "FALSE",
+			"vehicle_number_plate_detection_enabled": "FALSE",
+			"camera_tampering_detection_enabled": "FALSE",
+			"intrusion_detection_enabled": "FALSE"
+
+		}
+	]
